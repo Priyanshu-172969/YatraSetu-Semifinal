@@ -1,0 +1,302 @@
+[
+  {
+    "destination_id": 1,
+    "place_name": "Taj Mahal",
+    "filename": "01-taj-mahal.jpg",
+    "artist": "Yann; edited by Jim Carter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATaj%20Mahal%20%28Edited%29.jpeg",
+    "file_size_kb": 252.3
+  },
+  {
+    "destination_id": 2,
+    "place_name": "Qutb Minar",
+    "filename": "02-qutb-minar.jpg",
+    "artist": "Wasir kasab",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AQutb%20Minar%202022.jpg",
+    "file_size_kb": 406.7
+  },
+  {
+    "destination_id": 3,
+    "place_name": "Amber Fort",
+    "filename": "03-amber-fort.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A20191219%20Fort%20Amber%2C%20Amer%2C%20Jaipur%200955%209481.jpg",
+    "file_size_kb": 337.2
+  },
+  {
+    "destination_id": 4,
+    "place_name": "Ajanta Caves",
+    "filename": "04-ajanta-caves.jpg",
+    "artist": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AAjanta%20%2863%29.jpg",
+    "file_size_kb": 311.2
+  },
+  {
+    "destination_id": 5,
+    "place_name": "Ellora Caves",
+    "filename": "05-ellora-caves.jpg",
+    "artist": "Shishirdasika",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEllora%20Cave%2016%20Kailasa%20Temple.jpg",
+    "file_size_kb": 382.6
+  },
+  {
+    "destination_id": 6,
+    "place_name": "Konark Sun Temple",
+    "filename": "06-konark-sun-temple.jpg",
+    "artist": "Subham9423",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKonarka%20Temple.jpg",
+    "file_size_kb": 399.5
+  },
+  {
+    "destination_id": 7,
+    "place_name": "Hampi Group of Monuments",
+    "filename": "07-hampi.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWide%20angle%20of%20Galigopuram%20of%20Virupaksha%20Temple%2C%20Hampi%20%2804%29%20%28cropped%29.jpg",
+    "file_size_kb": 224.3
+  },
+  {
+    "destination_id": 8,
+    "place_name": "Khajuraho Group of Monuments",
+    "filename": "08-khajuraho.jpg",
+    "artist": "PLBechly",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A1%20Khajuraho.jpg",
+    "file_size_kb": 302.6
+  },
+  {
+    "destination_id": 9,
+    "place_name": "Sanchi Stupa",
+    "filename": "09-sanchi-stupa.jpg",
+    "artist": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEast%20Gateway%20-%20Stupa%201%20-%20Sanchi%20Hill%202013-02-21%204398.JPG",
+    "file_size_kb": 579.5
+  },
+  {
+    "destination_id": 10,
+    "place_name": "Golden Temple (Sri Harmandir Sahib)",
+    "filename": "10-golden-temple.jpg",
+    "artist": "Shagil Kannur",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AThe%20Golden%20Temple%20of%20Amrithsar%207.jpg",
+    "file_size_kb": 369.8
+  },
+  {
+    "destination_id": 11,
+    "place_name": "Mahabodhi Temple Complex",
+    "filename": "11-mahabodhi-temple.jpg",
+    "artist": "Bpilgrim",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMahabodhitemple.jpg",
+    "file_size_kb": 652.7
+  },
+  {
+    "destination_id": 12,
+    "place_name": "Nalanda Mahavihara",
+    "filename": "12-nalanda-mahavihara.jpg",
+    "artist": "Odantapuribs",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATemple%20No.-%203%2C%20Nalanda%20Archaeological%20Site.jpg",
+    "file_size_kb": 381.9
+  },
+  {
+    "destination_id": 13,
+    "place_name": "Santiniketan",
+    "filename": "13-santiniketan.jpg",
+    "artist": "Billjones94",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AShantiniketan%20Bari%20of%20Rabindranath%20Tagore.jpg",
+    "file_size_kb": 398.0
+  },
+  {
+    "destination_id": 14,
+    "place_name": "Jaisalmer Fort",
+    "filename": "14-jaisalmer-fort.jpg",
+    "artist": "Gérard Janot",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJaisalmer%20forteresse.jpg",
+    "file_size_kb": 246.3
+  },
+  {
+    "destination_id": 15,
+    "place_name": "Kedarnath Temple",
+    "filename": "15-kedarnath-temple.jpg",
+    "artist": "Shivam Kumar 766",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKedarnath%20Temple%20in%20Rainy%20season.jpg",
+    "file_size_kb": 550.8
+  },
+  {
+    "destination_id": 16,
+    "place_name": "Shri Mata Vaishno Devi Shrine",
+    "filename": "16-vaishno-devi.jpg",
+    "artist": "Yatin. 123",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASnowfall%20in%20Vaishno%20Devi.jpg",
+    "file_size_kb": 71.2
+  },
+  {
+    "destination_id": 17,
+    "place_name": "Tirumala Venkateswara Temple",
+    "filename": "17-tirumala-temple.jpg",
+    "artist": "Nikhilb239",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATirumala%20090615.jpg",
+    "file_size_kb": 394.3
+  },
+  {
+    "destination_id": 18,
+    "place_name": "Jagannath Temple",
+    "filename": "18-jagannath-temple.jpg",
+    "artist": "Prachites",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AShri%20Jagannath%20temple.jpg",
+    "file_size_kb": 342.8
+  },
+  {
+    "destination_id": 19,
+    "place_name": "Ramanathaswamy Temple",
+    "filename": "19-ramanathaswamy-temple.jpg",
+    "artist": "Ssriram mt",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARamanathaswamy%20temple7.JPG",
+    "file_size_kb": 482.5
+  },
+  {
+    "destination_id": 20,
+    "place_name": "Kashi Vishwanath Temple",
+    "filename": "20-kashi-vishwanath-temple.jpg",
+    "artist": "Architkumar1234",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKashi%20Vishwanath.jpg",
+    "file_size_kb": 111.5
+  },
+  {
+    "destination_id": 21,
+    "place_name": "Kaziranga National Park",
+    "filename": "21-kaziranga-national-park.jpg",
+    "artist": "Diganta Talukdar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABeauty%20of%20Kaziranga%20National%20Park.jpg",
+    "file_size_kb": 349.4
+  },
+  {
+    "destination_id": 22,
+    "place_name": "Sundarbans National Park",
+    "filename": "22-sundarbans-national-park.jpg",
+    "artist": "Soumyajit Nandy",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASundarban%20Tiger.jpg",
+    "file_size_kb": 427.1
+  },
+  {
+    "destination_id": 23,
+    "place_name": "Ranthambore National Park",
+    "filename": "23-ranthambore-national-park.jpg",
+    "artist": "THerrington",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARanthambore%20National%20Park.JPG",
+    "file_size_kb": 324.4
+  },
+  {
+    "destination_id": 24,
+    "place_name": "Keoladeo National Park",
+    "filename": "24-keoladeo-national-park.jpg",
+    "artist": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3A002%20Asian%20green%20bee-eaters%20in%20Keoladeo%20National%20Park%20Photo%20by%20Giles%20Laurent.jpg",
+    "file_size_kb": 101.8
+  },
+  {
+    "destination_id": 25,
+    "place_name": "Eravikulam National Park",
+    "filename": "25-eravikulam-national-park.jpg",
+    "artist": "Mike Prince from Bangalore, India",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AEravikulam%20National%20Park%20%2849444006652%29.jpg",
+    "file_size_kb": 387.6
+  },
+  {
+    "destination_id": 26,
+    "place_name": "Valley of Flowers National Park",
+    "filename": "26-valley-of-flowers.jpg",
+    "artist": "Rohit Sharma (derivative: UnpetitproleX)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AValley%20of%20flowers%20national%20park%2C%20Uttarakhand%2C%20India%2003%20%28edit%29.jpg",
+    "file_size_kb": 504.6
+  },
+  {
+    "destination_id": 27,
+    "place_name": "Radhanagar Beach",
+    "filename": "27-radhanagar-beach.jpg",
+    "artist": "Kaila5hravi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ARadhanagar%20Beach%20Havelock.jpg",
+    "file_size_kb": 69.0
+  },
+  {
+    "destination_id": 28,
+    "place_name": "Dal Lake",
+    "filename": "28-dal-lake.jpg",
+    "artist": "Suhail Skindar Sofi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ADal%20Lake%20Hazratbal%20Srinagar.jpg",
+    "file_size_kb": 254.0
+  },
+  {
+    "destination_id": 29,
+    "place_name": "Nohkalikai Falls",
+    "filename": "29-nohkalikai-falls.jpg",
+    "artist": "Vikramjit Kakati",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANohKaLikai%20Falls%20V2%20Wiki.jpg",
+    "file_size_kb": 611.3
+  },
+  {
+    "destination_id": 30,
+    "place_name": "Calangute Beach",
+    "filename": "30-calangute-beach.jpg",
+    "artist": "Aditya Mandke",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASunset%20at%20Calangute.jpg",
+    "file_size_kb": 167.7
+  }
+]

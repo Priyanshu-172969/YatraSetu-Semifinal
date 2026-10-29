@@ -1,0 +1,41 @@
+# 📷 YatraSetu Destination Photography & Image Credits
+
+All 30 destination photographs integrated into YatraSetu are sourced from **Wikimedia Commons** under verified permissible Creative Commons licenses (CC BY, CC BY-SA) and stored locally in `static/images/destinations/`.
+
+No external network image dependencies exist at runtime; images load locally with responsive styling and fallback panels for newly added destinations.
+
+| ID | Destination | Local File | Author / Photographer | License | Source |
+|:--:|:---|:---|:---|:---|:---|
+| 01 | **Taj Mahal** | `01-taj-mahal.jpg` | Yann; edited by Jim Carter | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ATaj%20Mahal%20%28Edited%29.jpeg) |
+| 02 | **Qutb Minar** | `02-qutb-minar.jpg` | Wasir kasab | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AQutb%20Minar%202022.jpg) |
+| 03 | **Amber Fort** | `03-amber-fort.jpg` | Jakub Hałun | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3A20191219%20Fort%20Amber%2C%20Amer%2C%20Jaipur%200955%209481.jpg) |
+| 04 | **Ajanta Caves** | `04-ajanta-caves.jpg` | No machine-readable author provided. Soman assumed (based on copyright claims). | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AAjanta%20%2863%29.jpg) |
+| 05 | **Ellora Caves** | `05-ellora-caves.jpg` | Shishirdasika | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AEllora%20Cave%2016%20Kailasa%20Temple.jpg) |
+| 06 | **Konark Sun Temple** | `06-konark-sun-temple.jpg` | Subham9423 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AKonarka%20Temple.jpg) |
+| 07 | **Hampi Group of Monuments** | `07-hampi.jpg` | iMahesh | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AWide%20angle%20of%20Galigopuram%20of%20Virupaksha%20Temple%2C%20Hampi%20%2804%29%20%28cropped%29.jpg) |
+| 08 | **Khajuraho Group of Monuments** | `08-khajuraho.jpg` | PLBechly | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3A1%20Khajuraho.jpg) |
+| 09 | **Sanchi Stupa** | `09-sanchi-stupa.jpg` | Biswarup Ganguly | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AEast%20Gateway%20-%20Stupa%201%20-%20Sanchi%20Hill%202013-02-21%204398.JPG) |
+| 10 | **Golden Temple (Sri Harmandir Sahib)** | `10-golden-temple.jpg` | Shagil Kannur | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AThe%20Golden%20Temple%20of%20Amrithsar%207.jpg) |
+| 11 | **Mahabodhi Temple Complex** | `11-mahabodhi-temple.jpg` | Bpilgrim | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AMahabodhitemple.jpg) |
+| 12 | **Nalanda Mahavihara** | `12-nalanda-mahavihara.jpg` | Odantapuribs | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ATemple%20No.-%203%2C%20Nalanda%20Archaeological%20Site.jpg) |
+| 13 | **Santiniketan** | `13-santiniketan.jpg` | Billjones94 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AShantiniketan%20Bari%20of%20Rabindranath%20Tagore.jpg) |
+| 14 | **Jaisalmer Fort** | `14-jaisalmer-fort.jpg` | Gérard Janot | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AJaisalmer%20forteresse.jpg) |
+| 15 | **Kedarnath Temple** | `15-kedarnath-temple.jpg` | Shivam Kumar 766 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AKedarnath%20Temple%20in%20Rainy%20season.jpg) |
+| 16 | **Shri Mata Vaishno Devi Shrine** | `16-vaishno-devi.jpg` | Yatin. 123 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ASnowfall%20in%20Vaishno%20Devi.jpg) |
+| 17 | **Tirumala Venkateswara Temple** | `17-tirumala-temple.jpg` | Nikhilb239 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ATirumala%20090615.jpg) |
+| 18 | **Jagannath Temple** | `18-jagannath-temple.jpg` | Prachites | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AShri%20Jagannath%20temple.jpg) |
+| 19 | **Ramanathaswamy Temple** | `19-ramanathaswamy-temple.jpg` | Ssriram mt | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ARamanathaswamy%20temple7.JPG) |
+| 20 | **Kashi Vishwanath Temple** | `20-kashi-vishwanath-temple.jpg` | Architkumar1234 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AKashi%20Vishwanath.jpg) |
+| 21 | **Kaziranga National Park** | `21-kaziranga-national-park.jpg` | Diganta Talukdar | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ABeauty%20of%20Kaziranga%20National%20Park.jpg) |
+| 22 | **Sundarbans National Park** | `22-sundarbans-national-park.jpg` | Soumyajit Nandy | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ASundarban%20Tiger.jpg) |
+| 23 | **Ranthambore National Park** | `23-ranthambore-national-park.jpg` | THerrington | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ARanthambore%20National%20Park.JPG) |
+| 24 | **Keoladeo National Park** | `24-keoladeo-national-park.jpg` | Giles Laurent | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3A002%20Asian%20green%20bee-eaters%20in%20Keoladeo%20National%20Park%20Photo%20by%20Giles%20Laurent.jpg) |
+| 25 | **Eravikulam National Park** | `25-eravikulam-national-park.jpg` | Mike Prince from Bangalore, India | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AEravikulam%20National%20Park%20%2849444006652%29.jpg) |
+| 26 | **Valley of Flowers National Park** | `26-valley-of-flowers.jpg` | Rohit Sharma (derivative: UnpetitproleX) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3AValley%20of%20flowers%20national%20park%2C%20Uttarakhand%2C%20India%2003%20%28edit%29.jpg) |
+| 27 | **Radhanagar Beach** | `27-radhanagar-beach.jpg` | Kaila5hravi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ARadhanagar%20Beach%20Havelock.jpg) |
+| 28 | **Dal Lake** | `28-dal-lake.jpg` | Suhail Skindar Sofi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ADal%20Lake%20Hazratbal%20Srinagar.jpg) |
+| 29 | **Nohkalikai Falls** | `29-nohkalikai-falls.jpg` | Vikramjit Kakati | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ANohKaLikai%20Falls%20V2%20Wiki.jpg) |
+| 30 | **Calangute Beach** | `30-calangute-beach.jpg` | Aditya Mandke | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Wikimedia Commons File](https://commons.wikimedia.org/wiki/File%3ASunset%20at%20Calangute.jpg) |
+
+---
+*Verified for academic DBMS submission. Total local verified images: 30 / 30.*
